@@ -1,14 +1,14 @@
 /** 
  * These rules enforce Hack Reactor's style guide.
- * Please see http://eslint.org/docs/user-guide/configuring
- * for information on how to modify this file
+ * Visit this repo for more information:
+ *   https://github.com/hackreactor-labs/eslint-config-hackreactor
  */
 
 module.exports = {
-  'env': {
+  env: {
     'es6': true
   },
-  'rules': {
+  rules: {
     /* Indentation */
     'no-mixed-spaces-and-tabs': 2,
     'indent': [2, 2],
