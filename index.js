@@ -8,6 +8,9 @@ module.exports = {
   env: {
     'es6': true
   },
+  ecmaFeatures: {
+    'jsx': true
+  },
   rules: {
     /* Indentation */
     'no-mixed-spaces-and-tabs': 2,
