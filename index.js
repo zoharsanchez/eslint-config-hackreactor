@@ -37,7 +37,7 @@ module.exports = {
     'keyword-spacing': [1, { 'before': true, 'after': true }],
     'space-infix-ops': 1,
     /* Variable declaration */
-    'one-var': [1, 'never'],
+    'one-var': [1, { 'uninitialized': 'always', 'initialized': 'never' }],
     /* Minuta */
     'comma-style': [2, 'last'],
     'quotes': [1, 'single']
