@@ -1,9 +1,3 @@
-/** 
- * These rules enforce Hack Reactor's style guide.
- * Visit this repo for more information:
- *   https://github.com/hackreactor-labs/eslint-config-hackreactor
- */
-
 module.exports = {
   env: {
     'es6': true
@@ -42,7 +36,6 @@ module.exports = {
     'one-var': [1, { 'uninitialized': 'never', 'initialized': 'never' }],
     'no-use-before-define': 2,
     /* Minuta */
-    'comma-style': [2, 'last'],
-    'quotes': [1, 'single']
+    'comma-style': [2, 'last']
   }
 };

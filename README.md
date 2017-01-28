@@ -17,7 +17,7 @@ npm install -g eslint
 
 Install the Hack Reactor style guide configuration:
 ```
-npm install -g hackreactor-labs/eslint-config-hackreactor
+npm install -g zoharsanchez/eslint-config-hackreactor
 ```
 
 ## Enforce the style guide in a project
