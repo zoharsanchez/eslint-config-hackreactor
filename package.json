@@ -16,11 +16,12 @@
   ],
   "author": "Hack Reactor <curriculum.team@hackreactor.com> (http://hackreactor.com)",
   "contributors": [
-    "Dan Thareja <danthareja>"
+    "Dan Thareja <danthareja>",
+    "Zohar Sanchez <zoharsanchez>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hackreactor-labs/eslint-config-hackreactor/issues"
+    "url": "https://github.com/zoharsanchez/eslint-config-hackreactor/issues"
   },
-  "homepage": "https://github.com/hackreactor-labs/eslint-config-hackreactor#readme"
+  "homepage": "https://github.com/zoharsanchez/eslint-config-hackreactor#readme"
 }
